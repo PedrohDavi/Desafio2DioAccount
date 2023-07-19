@@ -11,7 +11,10 @@
 
 1 - Clone o repositório
 
-2 - Execute o comando 'npm start'
+2- Instale a dependência
+  - npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+
+3 - Execute o comando 'npm start'
 
 #### Desafios
 [ ] Crie os componentes referentes aos elementos na página inicial
